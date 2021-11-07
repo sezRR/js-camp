@@ -34,3 +34,8 @@ for (let i = 0; i < konutKredileri.length; i++) {
 
 console.log("<ul>")
 
+// var - let
+// scope farkı vardır
+// var global scopetur.
+// let local scopetur.
+
