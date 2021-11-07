@@ -10,8 +10,6 @@ addToCart(10)
 // addToCart("Watermelon")
 // addToCart(15)
 
-// undefined: bellekte referans yok
-
 let sayHello = () => {
     console.log("Hello World!")
 }
